@@ -1,2 +1,3 @@
 # Hello-World
-Using github at first
+
+I will do my best to learn.
